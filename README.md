@@ -19,6 +19,7 @@ Create your own CIDR file. IP ranges can be identified by going to:
 * http://www.find-ip-address.org/ip-country/
 * http://www.wizcrafts.net/exploited-servers-blocklist.html
 * http://www.wizcrafts.net/lacnic-blocklist.html
+* http://software77.net/geo-ip/
 
 Initialization
 --------------
